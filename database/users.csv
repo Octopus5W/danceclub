@@ -1,0 +1,6 @@
+"id","username","password","email","name","surname","birthday","role","last_activity","created_at"
+"9","test2","$2y$10$WS0EoVQnjPwZa.Le26To7upeEWKswGG/RSpI6LrAbNkTZ3/Ggzbgy","test2@test2.test2","test2","test2","0022-02-02","admin","2023-12-04 03:32:24","2023-12-04 03:32:24"
+"10","test3","$2y$10$986XTcUBYNMUbzzGVlrXHuzzx6sy4ZQ/1WsAuaEvNCZlmcWjA5afy","test3@test3.test3","test3","test3","0001-11-11","user","2023-12-04 03:33:22","2023-12-04 03:33:22"
+"11","test4","$2y$10$rgIRQfaEetcAS.0dyb4cuOx8GRkXdbeUAqbYqU687/uDDOYp8TwhS","test4@test4.test4","test4","test4","0055-05-05","user","2023-12-04 03:41:19","2023-12-04 03:41:19"
+"12","test5","$2y$10$HHk5R4aUXrW3kGlmlyd7.OkzzM2JiQA2Axpgn/2Acjfqbfl84Zrm.","test5@test5.test5","test5","test5","0055-05-05","user","2023-12-04 03:49:26","2023-12-04 03:49:26"
+"13","admin","$2y$10$DLGzYaucOs4cqmPIcZ4FweJAk.elgnZ.PkXGEDKCRm.Y3RBoRXkJi","admin@admin.admin","admin","admin","0008-08-08","admin","2023-12-04 04:55:47","2023-12-04 04:55:47"
